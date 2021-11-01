@@ -14,6 +14,8 @@ Instead of using only two images to transfer style, this script will use Neural 
 
 6.now, either move all the photos out of the folder and into the general google colab file section, or drag your photos from finder/file explorer into the general google colab file section
 
-now, you are ready to run the first block of code and visualize computer generated abstract art
-New files will appear in the google colab file section labeled "TransferX.jpg" where X denotes the iteration count
-By clicking on these files you can see the pictures created on each iteration
+7.now, you are ready to run the first block of code and visualize computer generated abstract art
+
+8.new files will appear in the google colab file section labeled "TransferX.jpg" where X denotes the iteration count
+
+9.By clicking on these files you can see the pictures created on each iteration
