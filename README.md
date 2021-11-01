@@ -3,11 +3,17 @@ Instead of using only two images to transfer style, this script will use Neural 
 
 # How To Use
 1.create a new folder in the google colab notebook called styleTransfer
+
 2.drag all the images you would like to combine into the folder
-select one image to be your base/ starting image and rename it to "Transfer0.jpg"
-drag this renamed image out of the folder and into the general file section of google colab
-run the block of code at the bottom to add the image names to a list
-now, either move all the photos out of the folder and into the general google colab file section, or drag your photos from finder/file explorer into the general google colab file section
+
+3.select one image to be your base/ starting image and rename it to "Transfer0.jpg"
+
+4.drag this renamed image out of the folder and into the general file section of google colab
+
+5.run the block of code at the bottom to add the image names to a list
+
+6.now, either move all the photos out of the folder and into the general google colab file section, or drag your photos from finder/file explorer into the general google colab file section
+
 now, you are ready to run the first block of code and visualize computer generated abstract art
 New files will appear in the google colab file section labeled "TransferX.jpg" where X denotes the iteration count
 By clicking on these files you can see the pictures created on each iteration
