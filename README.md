@@ -2,8 +2,8 @@
 Instead of using only two images to transfer style, this script will use Neural Style Transfer to combine a group of images into one image
 
 # How To Use
-create a new folder in the google colab notebook called styleTransfer
-drag all the images you would like to combine into the folder
+1.create a new folder in the google colab notebook called styleTransfer
+2.drag all the images you would like to combine into the folder
 select one image to be your base/ starting image and rename it to "Transfer0.jpg"
 drag this renamed image out of the folder and into the general file section of google colab
 run the block of code at the bottom to add the image names to a list
